@@ -74,7 +74,7 @@ Result: Below Target
 - Lightweight and easy to use
 - Beginner-friendly Java project
 - Demonstrates practical use of file handling
-## 🔮 Future Enhancements
+##  Future Enhancements
 - Daily reminders for missed study sessions
 - Weekly and monthly progress reports
 - Study streak tracking
@@ -90,7 +90,7 @@ Through this project, I learned:
 - Project organization
 - Git and GitHub basics
 
-## 👩‍💻 Author
+## Author
 
 **Jaahnavi Yaganti**  
 B.Tech 3rd Year
